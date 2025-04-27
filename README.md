@@ -1,8 +1,8 @@
-#home page:
+# home page:
 ![Website Screenshot](home.png)
 
-#menu page:
+# menu page:
 ![Website Screenshot](menu.png)
 
-#reservation page:
+# reservation page:
 ![Website Screenshot](reservation.png)
