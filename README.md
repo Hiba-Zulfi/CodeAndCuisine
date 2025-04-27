@@ -1,1 +1,1 @@
-![Website Screenshot](CodeAndCuisine/home.png)
+![Website Screenshot](home.png)
